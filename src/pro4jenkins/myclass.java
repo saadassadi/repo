@@ -7,6 +7,7 @@ public class myclass {
 		
 		System.out.println("hello world");
 		System.out.println("hello world twice");
+		System.out.println("hello world three");
 
 	}
 
